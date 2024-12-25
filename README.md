@@ -5,8 +5,8 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 Through this exercise the sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.
 
-![Store Performance Analysis]((https://github.com/surbhiyadav26/Atliq_Retail_Insights/blob/main/Screenshot%202024-12-25%20203155.png?raw=true))
+![Store Performance Analysis](https://github.com/surbhiyadav26/Atliq_Retail_Insights/blob/main/Screenshot%202024-12-25%20203155.png?raw=true)
 
-![Promotion Type Analysis]((https://github.com/surbhiyadav26/Atliq_Retail_Insights/blob/main/Screenshot%202024-12-25%20203214.png?raw=true))
+![Promotion Type Analysis](https://github.com/surbhiyadav26/Atliq_Retail_Insights/blob/main/Screenshot%202024-12-25%20203214.png?raw=true)
 
-![Product and Category Analysis](https://github.com/surbhiyadav26/Atliq_Retail_Insights/blob/main/Screenshot%202024-12-25%20203234.png?raw=true))
+![Product and Category Analysis](https://github.com/surbhiyadav26/Atliq_Retail_Insights/blob/main/Screenshot%202024-12-25%20203234.png?raw=true)
